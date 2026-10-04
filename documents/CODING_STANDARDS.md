@@ -38,9 +38,6 @@ For branches, commits, pull requests and CI, see [GIT_STANDARDS.md](GIT_STANDARD
 | Local unit tests | SQLite (in memory), pytest | Local and CI |
 | Containers | Docker, Docker Compose for local development | |
 
-- Python version: TODO (3.12 suggested; 3.10 or newer is required for `match`).
-- Node version: TODO. Pin it in `.nvmrc` and in `engines` in `package.json`.
-
 ## 2. General rules
 
 - Plan before coding. Talk through the approach on Discord or in the issue first.

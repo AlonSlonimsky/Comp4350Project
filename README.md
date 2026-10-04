@@ -27,3 +27,11 @@ The working agreement can be found [here](documents/Comp4350%20work-agreement.pd
 ## User Stories
 
 The user stories can be found [here](https://github.com/AlonSlonimsky/Comp4350Project/issues).
+
+## Coding Standards
+
+The coding standards can be found [here](documents/CODING_STANDARDS.md)
+
+## Git Standards
+
+The git standards can be found [here](documents/GIT_STANDARDS.md)

@@ -80,7 +80,7 @@ The working agreement can be found [here](documents/Comp4350%20work-agreement.pd
 
 - 2 people review any PR before merge 
 
-- Issues are dev tasks(?)  
+- Issues are dev tasks
 
 - Branches resolve designated issues 
 

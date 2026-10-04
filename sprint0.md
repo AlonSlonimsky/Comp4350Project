@@ -4,26 +4,6 @@
 
 ***BisonRides*** is intended specifically for Univeresity of Manitoba students commuting to campus, and will include checks to confirm that only registered students are able to register onto the platform.
 
-## Core Features
-
-- Two user modes: driver and rider, verified students with information 
-
-- Drivers can post ride plans, that they intend to drive from X to university or vice versa from time A to time B.
-
-- Rider/s can view these, make requests, communicate with the driver asking for a ride and necessary accommodations.
-
-- Recommended rides algorithm. 
-
-- Pricing/Payment plans & algorithms, splitting price of gas as given by driver.
-
-- Pricing negotiation, some way to set price.
-
-- Multiple Destinations (i.e. Bannatyne campus and Fort Garry campus).
-
-## User Stories
-
-The user stories can be found [here](https://github.com/AlonSlonimsky/Comp4350Project/issues).
-
 ## Initial non-functional expectations
 
 - **Performance**: Usable speeds 
@@ -35,10 +15,6 @@ The user stories can be found [here](https://github.com/AlonSlonimsky/Comp4350Pr
 - **Accessibility**: Follow best practices i.e. alt text 
 
 - **Availability**: Render loads in 1 minute
-
-## Working Agreement
-
-The working agreement can be found [here](documents/Comp4350%20work-agreement.pdf).
 
 ## Initial technology and platform decisions
 

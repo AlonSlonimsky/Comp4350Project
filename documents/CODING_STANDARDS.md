@@ -1,6 +1,6 @@
 # Coding Standards
 
-These standards apply to everyone on [team name] while working on BisonRides.
+These standards apply to everyone working on BisonRides.
 
 For branches, commits, pull requests and CI, see [GIT_STANDARDS.md](GIT_STANDARDS.md).
 

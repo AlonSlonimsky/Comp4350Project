@@ -1,8 +1,48 @@
 ## Product Vision
 
-***BisonRides*** helps reduce carbon emissions and traffic congestion by allowing multiple people to share a single ride. It also provides a more budget-friendly transportation option for university students and others travelling to or from the university. Some people may feel uncomfortable using public transit, making ridesharing a useful alternative. In addition, ***BisonRides*** can also save time being wasted by providing more direct routes compared with public transit, which may require multiple stops or transfers. Additionally, since public transit is not available everywhere, particularly for people who live outside the city, ***BisonRides*** can provide greater transportation accessibility for these individuals.
+***BisonRides*** is a ridesharing application designed to help university 
+students get to campus efficiently and reliably. Drivers can post the 
+routes they regularly take to campus, along with an initial price they 
+consider reasonable for providing a ride. Riders can browse available 
+routes and request to join a driver’s trip, while the built-in price 
+negotiation system allows both parties to settle on a mutually acceptable 
+fare. If none of the available routes meet a rider’s needs, they can 
+create a custom ride request that is visible to drivers, who can choose 
+to accept it. The application also allows riders and drivers to 
+communicate directly when arranging rides or discussing specific 
+accommodations, ensuring both parties can clearly communicate their 
+needs before the trip. 
 
-***BisonRides*** is intended specifically for Univeresity of Manitoba students commuting to campus, and will include checks to confirm that only registered students are able to register onto the platform.
+The primary target audience for ***BisonRides*** is university students, 
+specifically those who do not have reliable access to a personal 
+vehicle, a driver’s license, or a convenient public transportation 
+option. ***BisonRides*** is particularly useful for students who live in areas 
+without access to public transportation or who, for personal reasons, do 
+not feel comfortable using public transit. By connecting these students 
+with other university students who are already travelling to campus, 
+***BisonRides*** provides an additional transportation option that can better 
+accommodate individual schedules and circumstances.
+
+***BisonRides*** provides students with a flexible and reliable alternative 
+to public transit, which can be especially valuable during winter months 
+or for students who need to arrive on campus early in the morning for 
+classes or exams. Compared with public transit, car rides can provide a 
+faster and more direct means of transportation, helping students arrive 
+on campus more efficiently and reliably. The application also provides 
+an opportunity for students with vehicles to earn additional income by 
+offering rides while encouraging carpooling among students. By increasing 
+the number of students sharing rides, ***BisonRides*** can help reduce the 
+number of individual vehicles travelling to campus, potentially 
+decreasing traffic congestion and transportation-related carbon 
+emissions. This can contribute to cleaner air and more sustainable 
+transportation while providing students with a convenient way to travel. 
+
+The success of ***BisonRides*** will be measured using several indicators of 
+user satisfaction and adoption. The project will be considered successful 
+if it achieves the following goals: it maintains an average user 
+rating of at least 4 out of 5 stars, and a user study indicates that 
+***BisonRides*** is the preferred ridesharing application among participating 
+University of Manitoba students.
 
 ## Initial non-functional expectations
 

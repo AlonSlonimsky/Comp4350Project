@@ -1,12 +1,4 @@
-***BisonRides*** is a platform for University of Manitoba students to arrange ride sharing to and from Campus.
-
-## Vision Statement
-
-Our vision statement can be found [here](sprint0.md#product-vision)
-
-## Working Agreement
-
-The working agreement can be found [here](documents/Comp4350%20work-agreement.pdf).
+***BisonRides*** is a platform for University of Manitoba students to arrange ride sharing to and from campus.
 
 ## Core Features
 
@@ -24,14 +16,22 @@ The working agreement can be found [here](documents/Comp4350%20work-agreement.pd
 
 - Multiple Destinations (i.e. Bannatyne campus and Fort Garry campus).
 
+## Vision Statement
+
+Our vision statement can be found [here](sprint0.md#product-vision).
+
+## Working Agreement
+
+The working agreement can be found [here](documents/Comp4350%20work-agreement.pdf).
+
 ## User Stories
 
 The user stories can be found [here](https://github.com/AlonSlonimsky/Comp4350Project/issues).
 
 ## Coding Standards
 
-The coding standards can be found [here](documents/CODING_STANDARDS.md)
+The coding standards can be found [here](documents/CODING_STANDARDS.md).
 
 ## Git Standards
 
-The git standards can be found [here](documents/GIT_STANDARDS.md)
+The git standards can be found [here](documents/GIT_STANDARDS.md).

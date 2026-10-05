@@ -6,15 +6,15 @@
 
 ## Initial non-functional expectations
 
-- **Performance**: Usable speeds 
+- **Performance**: Usable speeds. Embedded map and algorithms should not be noticable bottlenecks in frontend and backend performance respectively.
 
-- **Reliability**: Should work 
+- **Reliability**: Should work reliably without crashing.
 
-- **Security**: Safe storage of credentials/secrets 
+- **Security**: Safe storage of credentials/secrets. Especially payment information and user email lists.
 
-- **Accessibility**: Follow best practices i.e. alt text 
+- **Accessibility**: Follow best practices i.e. alt text on any image.
 
-- **Availability**: Render loads in 1 minute
+- **Availability**: Render loads in 1 minute. Should be usable from both mobile and desktop devices.
 
 ## Initial technology and platform decisions
 
@@ -40,7 +40,7 @@
 
 - **Openrouteservice** API for map calls 
 
-- **Python**, (**flask** or **FastAPI**) with **SQLAlchemy** 
+- **Python**, (**Flask** or **FastAPI**) with **SQLAlchemy** 
 
 - **Stripe** for payments 
 

@@ -2,6 +2,7 @@ annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.15.1
 click==8.5.0
+coverage==7.16.2
 fastapi==0.143.0
 h11==0.16.0
 httpcore2==2.13.1
@@ -15,6 +16,7 @@ pydantic==2.14.0
 pydantic_core==2.50.0
 Pygments==2.21.0
 pytest==9.1.1
+pytest-cov==7.1.0
 starlette==1.7.0
 truststore==0.10.4
 typing-inspection==0.4.4

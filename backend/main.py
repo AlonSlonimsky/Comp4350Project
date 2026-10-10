@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-
 from routers import auth, ride_requests, rides, updates, users
 
 app = FastAPI(title="BisonRides")

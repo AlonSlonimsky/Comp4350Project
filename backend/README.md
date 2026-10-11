@@ -2,6 +2,13 @@
 
 > For Linux (bash or any similar shell, e.g. zsh).
 
+## Prerequisites
+`Python3` with `venv` and `pip`. On Debian/Ubuntu, install it with:
+```bash
+sudo apt install python3 python3-venv python3-pip
+```
+
+## Setup
 ```bash
 cd backend
 python3 -m venv .venv
